@@ -1,0 +1,6 @@
+{
+  "name": "LifePilot AI",
+  "description": "دستیار جامع و هوشمند مدیریت بهره‌وری، کارها، اهداف، عادات و تمرکز | Personal AI workspace for tasks, goals, habits, focus, and planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
